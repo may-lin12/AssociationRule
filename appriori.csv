@@ -1,0 +1,3 @@
+,items,support,ordered_statistics
+0,"frozenset({'30-40000', 'Yes'})",0.2222222222222222,"[OrderedStatistic(items_base=frozenset({'30-40000'}), items_add=frozenset({'Yes'}), confidence=1.0, lift=2.571428571428571)]"
+1,"frozenset({'No', 'Female'})",0.2222222222222222,"[OrderedStatistic(items_base=frozenset({'Female'}), items_add=frozenset({'No'}), confidence=1.0, lift=2.25)]"
